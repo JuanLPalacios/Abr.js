@@ -20,7 +20,7 @@
   },
   "keywords": [],
   "author": "Juan Luis Palacios Pérez",
-  "license": "MIT",
+  "license": "LGPL-2.1-or-later",
   "bugs": {
     "url": "https://github.com/JuanLPalacios/abr.js/issues"
   },
